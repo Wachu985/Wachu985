@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter and Dart,Express.js**
 
 - 📫 How to reach me **pedrobonilla985@gmail.com**
-- 👉 Plis visit this site <a href="[ttps://wachu985.hopto.org/](https://wachu985.hopto.org/)" target="blank"> Portfolio</a>
+- 👉 Plis visit this site <a href="https://wachu985.hopto.org/" target="blank"> Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
